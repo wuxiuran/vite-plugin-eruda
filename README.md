@@ -9,13 +9,13 @@ $ yarn add vite-plugin-eruda
 
 ### Usage
 ```javascript
-import vitePluginEruda from 'vite-plugin-eruda'
+import eruda from 'vite-plugin-eruda'
 
 
 module.exports = {
   plugins: [
     // others
-    vitePluginEruda()
+    eruda()
   ]
 }
 ```
