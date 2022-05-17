@@ -14,7 +14,7 @@ export default ({
         {
           tag: 'script',
           attrs: {
-            src: 'https://cdn.jsdelivr.net/npm/eruda',
+            src: 'https://eruda.liriliri.io/eruda.min.js',
           },
           injectTo: 'head',
         },
